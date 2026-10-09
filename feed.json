@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ecole de Musique Eric J. Cadieux",
     "description": "",
-    "home_page_url": "https://rickyjc-git.github.io/ecolejcadieux",
-    "feed_url": "https://rickyjc-git.github.io/ecolejcadieux/feed.json",
+    "home_page_url": "https://ecolejcadieux.com",
+    "feed_url": "https://ecolejcadieux.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Eric J Cadieux"
